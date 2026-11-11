@@ -1,5 +1,3 @@
 {
-    "requestEvent": {
-        "requestSong": "Toivo kappaletta"
-    }
+    "requestEvent.requestSong": "Toivo kappaletta"
 }

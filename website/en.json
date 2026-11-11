@@ -2,5 +2,11 @@
     "requestEvent.requestSong": "Request a song",
     "Log in to request a song": "Log in to request a song",
     "Requests": "Requests",
-    "Request a song or send a shout-out": "Request a song or send a shout-out"
+    "Request a song or send a shout-out": "Request a song or send a shout-out",
+    "This event takes requests from signed-in listeners only.": "This event takes requests from signed-in listeners only.",
+    "This event takes shout-outs from signed-in listeners only.": "This event takes shout-outs from signed-in listeners only.",
+    "Request a song": "Request a song",
+    "Send a shout-out": "Send a shout-out",
+    "Log in to send a shout-out": "Log in to send a shout-out",
+    "Tip the artist": "Tip the artist"
 }

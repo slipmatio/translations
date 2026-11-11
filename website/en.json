@@ -1,5 +1,4 @@
 {
-  "requestEvent": {
-    "requestSong": "Request a song"
-  }
+    "requestEvent.requestSong": "Request a song",
+    "Log in to request a song": "Log in to request a song"
 }

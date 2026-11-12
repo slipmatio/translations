@@ -1,8 +1,5 @@
 {
-    "requestEvent.requestSong": "Request a song",
     "Log in to request a song": "Log in to request a song",
-    "Requests": "Requests",
-    "Request a song or send a shout-out": "Request a song or send a shout-out",
     "This event takes requests from signed-in listeners only.": "This event takes requests from signed-in listeners only.",
     "This event takes shout-outs from signed-in listeners only.": "This event takes shout-outs from signed-in listeners only.",
     "Request a song": "Request a song",
@@ -16,5 +13,8 @@
     "Your message": "Your message",
     "Your email": "Your email",
     "Music by": "Music by",
-    "Available for bookings": "Available for bookings"
+    "Available for bookings": "Available for bookings",
+    "Slipmat Song Requests": "Slipmat Song Requests",
+    "Want {artistName} at your own party or event?": "Want {artistName} at your own party or event?",
+    "See full Slipmat profile, shows and recordings": "See full Slipmat profile, shows and recordings"
 }

@@ -8,5 +8,13 @@
     "Request a song": "Request a song",
     "Send a shout-out": "Send a shout-out",
     "Log in to send a shout-out": "Log in to send a shout-out",
-    "Tip the artist": "Tip the artist"
+    "Tip the artist": "Tip the artist",
+    "Book {{artistName}}": "Book {{artistName}}",
+    "Tell the artist where and when, and what kind of music you want. The more you say, the faster the reply.": "Tell the artist where and when, and what kind of music you want. The more you say, the faster the reply.",
+    "Send enquiry": "Send enquiry",
+    "Sending…": "Sending…",
+    "Your message": "Your message",
+    "Your email": "Your email",
+    "Music by": "Music by",
+    "Available for bookings": "Available for bookings"
 }

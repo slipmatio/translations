@@ -1,8 +1,5 @@
 {
-    "requestEvent.requestSong": "Toivo kappaletta",
     "Log in to request a song": "Kirjaudu sisään toivoaksesi kappaletta",
-    "Requests": "Toiveet",
-    "Request a song or send a shout-out": "Toivo kappaletta tai lähetä ääniviesti",
     "This event takes requests from signed-in listeners only.": "Tähän lähetykseen voi lähettää toiveita vain kirjautuneena.",
     "This event takes shout-outs from signed-in listeners only.": "Tähän lähetykseen voi lähettää ääniviestejä vain kirjautuneena.",
     "Request a song": "Toivo kappaletta",

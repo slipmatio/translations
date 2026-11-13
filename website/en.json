@@ -113,5 +113,9 @@
     "Log in to send more requests, vote, and record shout-outs.": "Log in to send more requests, vote, and record shout-outs.",
     "or": "or",
     "Artists": "Artists",
-    "Songs": "Songs"
+    "Songs": "Songs",
+    "Enter a username between 2 and 150 characters.": "Enter a username between 2 and 150 characters.",
+    "Your username could not be saved. Please try again.": "Your username could not be saved. Please try again.",
+    "Pick username": "Pick username",
+    "Done": "Done"
 }

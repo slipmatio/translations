@@ -78,5 +78,6 @@
     "common.close": "Sulje",
     "requestEvent.hearMore": "Muualla",
     "requests.loadingSongs": "Ladataan kappaleita…",
-    "common.loading": "Ladataan…"
+    "common.loading": "Ladataan…",
+    "common.logIn": "Kirjaudu"
 }

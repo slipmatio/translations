@@ -75,5 +75,6 @@
     "common.back": "Takaisin",
     "booking.bookArtist": "Tilaa {{artistName}} keikalle",
     "requests.browseArtists": "Selaa esittäjiä",
-    "common.close": "Sulje"
+    "common.close": "Sulje",
+    "requestEvent.hearMore": "Muualla"
 }

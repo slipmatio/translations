@@ -68,5 +68,6 @@
     "Request a song at this event.": "Toivo kappaletta tähän tapahtumaan.",
     "Log in to send more requests, vote, and record shout-outs.": "Kirjaudu lähettääksesi lisää toiveita, äänestääksesi ja nauhoittaaksesi ääniviestejä.",
     "Make it a shout-out": "Muuta terveiseksi",
-    "The artist can share it with everyone listening.": "Artisti voi lukea tai soittaa lähetyksessä."
+    "The artist can share it with everyone listening.": "Artisti voi lukea tai soittaa lähetyksessä.",
+    "common.optional": "(vapaaehtoinen)"
 }

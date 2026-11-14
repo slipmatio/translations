@@ -79,5 +79,6 @@
     "requestEvent.hearMore": "Muualla",
     "requests.loadingSongs": "Ladataan kappaleita…",
     "common.loading": "Ladataan…",
-    "common.logIn": "Kirjaudu"
+    "common.logIn": "Kirjaudu",
+    "requests.mostWanted": "Eniten toivotut"
 }

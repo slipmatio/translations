@@ -74,5 +74,6 @@
     "requests.artists": "Esittäjät",
     "common.back": "Takaisin",
     "booking.bookArtist": "Tilaa {{artistName}} keikalle",
-    "requests.browseArtists": "Selaa esittäjiä"
+    "requests.browseArtists": "Selaa esittäjiä",
+    "common.close": "Sulje"
 }

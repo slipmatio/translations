@@ -93,5 +93,6 @@
     "common.searching": "Etsitään…",
     "booking.sendEnquiry": "Lähetä",
     "requests.sendRequest": "Lähetä toive",
-    "requests.sendShoutout": "Lähetä ääniviesti"
+    "requests.sendShoutout": "Lähetä ääniviesti",
+    "common.sending": "Lähettää…"
 }

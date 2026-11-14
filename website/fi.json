@@ -35,7 +35,7 @@
     "Loading…": "Ladataan…",
     "Try again": "Yritä uudelleen",
     "Requests are closed.": "Toiveet on suljettu.",
-    "Request any song by {{name}}": "Toivo mikä tahansa kappale artistilta {{name}}",
+    "Request any song by {{name}}": "Toivo mikä tahansa esittäjän {{name}} kappale",
     "Search songs by {{name}}": "Etsi artistin {{name}} kappaleista",
     "Searching…": "Etsitään…",
     "No songs match your search.": "Yhtään kappaletta ei löytynyt.",

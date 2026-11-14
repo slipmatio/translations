@@ -85,5 +85,6 @@
     "common.or": "tai",
     "requests.playingSoon": "Tulossa",
     "requests.queue": "Jono",
-    "requests.record": "Äänitä"
+    "requests.record": "Äänitä",
+    "requests.requestText": "Toive “{{text}}”"
 }

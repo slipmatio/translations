@@ -69,5 +69,6 @@
     "Log in to send more requests, vote, and record shout-outs.": "Kirjaudu lähettääksesi lisää toiveita, äänestääksesi ja nauhoittaaksesi ääniviestejä.",
     "Make it a shout-out": "Muuta terveiseksi",
     "The artist can share it with everyone listening.": "Artisti voi lukea tai soittaa lähetyksessä.",
-    "common.optional": "(vapaaehtoinen)"
+    "common.optional": "(vapaaehtoinen)",
+    "requests.allArtists": "Kaikki esittäjät"
 }

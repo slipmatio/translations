@@ -83,5 +83,6 @@
     "requests.mostWanted": "Eniten toivotut",
     "requestEvent.musicBy": "Musiikista vastaa",
     "common.or": "tai",
-    "requests.playingSoon": "Tulossa"
+    "requests.playingSoon": "Tulossa",
+    "requests.queue": "Jono"
 }

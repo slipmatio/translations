@@ -280,5 +280,6 @@
     "chat.sources_one": "Lähde",
     "chat.sources_other": "Lähteet",
     "followerCount_one": "{{formattedCount}} seuraaja",
-    "followerCount_other": "{{formattedCount}} seuraajaa"
+    "followerCount_other": "{{formattedCount}} seuraajaa",
+    "chat.online": "Paikalla"
 }

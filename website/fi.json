@@ -76,5 +76,6 @@
     "booking.bookArtist": "Tilaa {{artistName}} keikalle",
     "requests.browseArtists": "Selaa esittäjiä",
     "common.close": "Sulje",
-    "requestEvent.hearMore": "Muualla"
+    "requestEvent.hearMore": "Muualla",
+    "requests.loadingSongs": "Ladataan kappaleita…"
 }

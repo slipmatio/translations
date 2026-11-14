@@ -88,5 +88,6 @@
     "requests.record": "Äänitä",
     "requests.requestText": "Toive “{{text}}”",
     "requests.requestSent": "Toive lähetetty",
-    "requests.requests": "Toiveet"
+    "requests.requests": "Toiveet",
+    "requests.searchArtists": "Etsi esittäjää"
 }

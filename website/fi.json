@@ -91,5 +91,6 @@
     "requests.requests": "Toiveet",
     "requests.searchArtists": "Etsi esittäjää",
     "common.searching": "Etsitään…",
-    "booking.sendEnquiry": "Lähetä"
+    "booking.sendEnquiry": "Lähetä",
+    "requests.sendRequest": "Lähetä toive"
 }

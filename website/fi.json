@@ -77,5 +77,6 @@
     "requests.browseArtists": "Selaa esittäjiä",
     "common.close": "Sulje",
     "requestEvent.hearMore": "Muualla",
-    "requests.loadingSongs": "Ladataan kappaleita…"
+    "requests.loadingSongs": "Ladataan kappaleita…",
+    "common.loading": "Ladataan…"
 }

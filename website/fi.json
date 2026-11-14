@@ -73,5 +73,6 @@
     "requests.allArtists": "Kaikki esittäjät",
     "requests.artists": "Esittäjät",
     "common.back": "Takaisin",
-    "booking.bookArtist": "Tilaa {{artistName}} keikalle"
+    "booking.bookArtist": "Tilaa {{artistName}} keikalle",
+    "requests.browseArtists": "Selaa esittäjiä"
 }

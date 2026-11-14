@@ -86,5 +86,6 @@
     "requests.playingSoon": "Tulossa",
     "requests.queue": "Jono",
     "requests.record": "Äänitä",
-    "requests.requestText": "Toive “{{text}}”"
+    "requests.requestText": "Toive “{{text}}”",
+    "requests.requestSent": "Toive lähetetty"
 }

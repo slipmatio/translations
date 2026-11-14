@@ -82,5 +82,6 @@
     "common.logIn": "Kirjaudu",
     "requests.mostWanted": "Eniten toivotut",
     "requestEvent.musicBy": "Musiikista vastaa",
-    "common.or": "tai"
+    "common.or": "tai",
+    "requests.playingSoon": "Tulossa"
 }

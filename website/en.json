@@ -21,8 +21,6 @@
     "Hear more": "Hear more",
     "requestsLeft_one": "You can request 1 more song.",
     "requestsLeft_other": "You can request {{count}} more songs.",
-    "shoutoutsLeft_one": "You can send 1 more shout-out.",
-    "shoutoutsLeft_other": "You can send {{count}} more shout-outs.",
     "peopleWantThis_one": "1 person wants this",
     "peopleWantThis_other": "{{count}} people want this",
     "Close": "Close",
@@ -62,8 +60,6 @@
     "Request sent": "Request sent",
     "Search for a song or an artist": "Search for a song or an artist",
     "Browse artists": "Browse artists",
-    "Send a shout-out without a song": "Send a shout-out without a song",
-    "Back to search": "Back to search",
     "Choose another song": "Choose another song",
     "Shout-out": "Shout-out",
     "Your name": "Your name",
@@ -73,8 +69,6 @@
     "(optional)": "(optional)",
     "Remove the file": "Remove the file",
     "Attach the song file": "Attach the song file",
-    "A greeting the artist can share with everyone listening.": "A greeting the artist can share with everyone listening.",
-    "Add a shout-out": "Add a shout-out",
     "Playing soon": "Playing soon",
     "Most wanted": "Most wanted",
     "The queue is empty. Request a song to start it.": "The queue is empty. Request a song to start it.",
@@ -117,5 +111,7 @@
     "Enter a username between 2 and 150 characters.": "Enter a username between 2 and 150 characters.",
     "Your username could not be saved. Please try again.": "Your username could not be saved. Please try again.",
     "Pick username": "Pick username",
-    "Done": "Done"
+    "Done": "Done",
+    "Make it a shout-out": "Make it a shout-out",
+    "The artist can share it with everyone listening.": "The artist can share it with everyone listening."
 }

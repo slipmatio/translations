@@ -72,5 +72,6 @@
     "common.optional": "(vapaaehtoinen)",
     "requests.allArtists": "Kaikki esittäjät",
     "requests.artists": "Esittäjät",
-    "common.back": "Takaisin"
+    "common.back": "Takaisin",
+    "booking.bookArtist": "Tilaa {{artistName}} keikalle"
 }

@@ -81,5 +81,6 @@
     "common.loading": "Ladataan…",
     "common.logIn": "Kirjaudu",
     "requests.mostWanted": "Eniten toivotut",
-    "requestEvent.musicBy": "Musiikista vastaa"
+    "requestEvent.musicBy": "Musiikista vastaa",
+    "common.or": "tai"
 }

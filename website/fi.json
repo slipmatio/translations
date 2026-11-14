@@ -70,5 +70,6 @@
     "Make it a shout-out": "Muuta terveiseksi",
     "The artist can share it with everyone listening.": "Artisti voi lukea tai soittaa lähetyksessä.",
     "common.optional": "(vapaaehtoinen)",
-    "requests.allArtists": "Kaikki esittäjät"
+    "requests.allArtists": "Kaikki esittäjät",
+    "requests.artists": "Esittäjät"
 }

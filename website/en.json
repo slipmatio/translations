@@ -212,6 +212,8 @@
     "live.performanceComplete": "Performance complete",
     "live.reconnecting": "Reconnecting...",
     "live.recurring": "Recurring",
+    "live.refreshNeeded": "Refresh needed",
+    "live.refreshNow": "Refresh now",
     "live.retryConnection": "Retry Connection",
     "live.slipmatLogo": "Slipmat logo",
     "live.startListening": "Start Listening!",
@@ -333,7 +335,6 @@
     "Calibrating groove sensors": "Calibrating groove sensors",
     "Charging the glow sticks": "Charging the glow sticks",
     "Sampling the cosmos": "Sampling the cosmos",
-    "Ready to start!": "Ready to start!",
     "Ready to Join the Event?": "Ready to Join the Event?",
     "Your browser doesn’t allow automatic playback on Slipmat.io": "Your browser doesn’t allow automatic playback on Slipmat.io",
     "How to enable autoplay": "How to enable autoplay",
@@ -407,5 +408,7 @@
     "Nothing has played in this event yet.": "Nothing has played in this event yet.",
     "You have been removed from this event.": "You have been removed from this event.",
     "You are banned from this event.": "You are banned from this event.",
-    "Your profile is not available yet. Please try again.": "Your profile is not available yet. Please try again."
+    "Your profile is not available yet. Please try again.": "Your profile is not available yet. Please try again.",
+    "The page refreshes itself in {{time}}.": "The page refreshes itself in {{time}}.",
+    "Refresh when it suits you. The music plays until you do.": "Refresh when it suits you. The music plays until you do."
 }

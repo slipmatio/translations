@@ -288,7 +288,6 @@
     "Too many arguments. Usage: {{usage}}": "Too many arguments. Usage: {{usage}}",
     "Channel name must start with #": "Channel name must start with #",
     "Failed to join channel": "Failed to join channel",
-    "Cannot part from lobby channel": "Cannot part from lobby channel",
     "You have no message to undo": "You have no message to undo",
     "You must be a channel operator to use this command": "You must be a channel operator to use this command",
     "Type @ or / for suggestions": "Type @ or / for suggestions",

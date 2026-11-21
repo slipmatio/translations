@@ -283,5 +283,6 @@
     "followerCount_other": "{{formattedCount}} seuraajaa",
     "chat.online": "Paikalla",
     "See {{nick}} on Slipmat Community": "Katso käyttäjän {{nick}} profiili Slipmat Communityssa",
-    "live.community": "Yhteisö"
+    "live.community": "Yhteisö",
+    "Open community profile": "Avaa yhteisöprofiili"
 }

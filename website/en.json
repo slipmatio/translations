@@ -253,7 +253,6 @@
     "profile.artistStaff": "Artist Staff",
     "profile.ban": "Ban",
     "profile.blocked": "Blocked",
-    "profile.communityProfile": "Community profile",
     "profile.edit": "Edit",
     "profile.editProfile": "Edit profile",
     "profile.friends": "Friends",
@@ -411,5 +410,6 @@
     "You are banned from this event.": "You are banned from this event.",
     "Your profile is not available yet. Please try again.": "Your profile is not available yet. Please try again.",
     "The page refreshes itself in {{time}}.": "The page refreshes itself in {{time}}.",
-    "See {{nick}} on Slipmat Community": "See {{nick}} on Slipmat Community"
+    "See {{nick}} on Slipmat Community": "See {{nick}} on Slipmat Community",
+    "Open community profile": "Open community profile"
 }

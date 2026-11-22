@@ -284,5 +284,7 @@
     "chat.online": "Paikalla",
     "See {{nick}} on Slipmat Community": "Katso käyttäjän {{nick}} profiili Slipmat Communityssa",
     "live.community": "Yhteisö",
-    "Open community profile": "Avaa yhteisöprofiili"
+    "Open community profile": "Avaa yhteisöprofiili",
+    "Show full size": "Näytä täysikokoisena",
+    "Image preview (click to expand)": "Kuvan esikatselu (avaa napsauttamalla)"
 }
